@@ -7,7 +7,6 @@ public class TextController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		text.text = "press down arrow to start";
-		text.horizontalOverflow = "wrap";
 	}
 	
 	// Update is called once per frame
